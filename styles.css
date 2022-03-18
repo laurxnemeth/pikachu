@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(169, 192, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wrapper {
+    height: 75vh;
+    width: 75vw;
+    border: solid;
+}
+
+#body {
+    height: 30vh;
+    width: 30vh;
+    border-radius: 50%;
+    background-color: rgb(252, 246, 109);
+}
